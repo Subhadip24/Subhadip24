@@ -21,8 +21,7 @@ I'm currently working on my own voice assitant
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_subhadip_mondal_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipmondal24) [![email](https://img.shields.io/badge/Email-D1483
-**Subhadip24/Subhadip24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_subhadip_mondal_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipmondal24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhadipmondal783@gmail.com)
 
 Here are some ideas to get you started:
 
