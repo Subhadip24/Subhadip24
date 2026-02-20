@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+# 💫 About Me:
 I'm currently working on my own voice assitant
 
 
@@ -17,7 +17,11 @@ I'm currently working on my own voice assitant
 ---
 [![](https://visitcount.itsvg.in/api?id=Subhadip24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Subhadip Mondal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subhadip Mondal) [![email](https://img.shields.io/badge/Email-D1483
 **Subhadip24/Subhadip24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
