@@ -25,6 +25,9 @@ I'm currently working on my own voice assitant
 
 Here are some ideas to get you started:
 
+- 🏅 International Champion - COMSYS Hackathon 7 Team Vic-Trio (Subhadip,Sourodyuti,Akshar)
+Results announced live at the 7th Intl. Conference on Frontiers in Computing and Systems (COMSYS 2026), jointly organised by Škoda Auto University, Czech Republic & COMSYS Educational Trust
+Novel Lazy Learning methodology Rank #1 Score 0.755
 - 🔭 I’m currently working on my own Voice assistant (VANI)
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on 
