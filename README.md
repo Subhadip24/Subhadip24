@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on my own voice assitant
+I'm currently working on my own project..
 
 
 ## 🌐 Socials:
